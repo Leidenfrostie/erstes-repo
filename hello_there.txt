@@ -1,11 +1,14 @@
-Dies ist ein text file
-es dient dazu die funktionen von GitHub auszuprobieren
-
+Dies ist ein text file.
+es dient dazu die funktionen von GitHub auszuprobieren.
+Hier machen wir eine kleine Änderung
 
 Achja, das hier hab ich vergessen: Bonjour!!
 Das wäre ja sonst unhöflich.
+
+Eine kleine Änderung.
 
 Aber was ist mit tschüß?
 Sollte man das nicht auch noch sagen?
 
 Ja ich denke das gehört dann auch mit dazu.
+Hier eine kleine Änderung

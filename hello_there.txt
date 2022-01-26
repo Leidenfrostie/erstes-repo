@@ -1,0 +1,2 @@
+Dies ist ein text file
+es dient dazu die funktionen von GitHub auszuprobieren

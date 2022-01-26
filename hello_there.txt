@@ -1,2 +1,5 @@
 Dies ist ein text file
 es dient dazu die funktionen von GitHub auszuprobieren
+
+
+Achja, das hier hab ich vergessen: Bonjour!!
